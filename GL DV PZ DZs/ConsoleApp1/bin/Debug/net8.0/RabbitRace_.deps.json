@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RabbitRace_/1.0.0": {
+        "runtime": {
+          "RabbitRace_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RabbitRace_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

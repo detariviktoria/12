@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A567152-D637-451F-AB07-856BD3D09537}|RabbitRace_\\RabbitRace_.csproj|c:\\users\\detari.viktoria\\desktop\\gl dv pz dzs\\rabbitrace_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A567152-D637-451F-AB07-856BD3D09537}|RabbitRace_\\RabbitRace_.csproj|solutionrelative:rabbitrace_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A567152-D637-451F-AB07-856BD3D09537}|RabbitRace_\\RabbitRace_.csproj|c:\\users\\detari.viktoria\\desktop\\gl dv pz dzs\\rabbitrace_\\rabbitrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A567152-D637-451F-AB07-856BD3D09537}|RabbitRace_\\RabbitRace_.csproj|solutionrelative:rabbitrace_\\rabbitrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD2D36C-E3F4-4541-A07D-70EE2A4A2647}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\detari.viktoria\\desktop\\gl dv pz dzs\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD2D36C-E3F4-4541-A07D-70EE2A4A2647}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD2D36C-E3F4-4541-A07D-70EE2A4A2647}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\detari.viktoria\\desktop\\gl dv pz dzs\\consoleapp1\\rabbitrace_programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD2D36C-E3F4-4541-A07D-70EE2A4A2647}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\rabbitrace_programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD2D36C-E3F4-4541-A07D-70EE2A4A2647}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\detari.viktoria\\desktop\\gl dv pz dzs\\consoleapp1\\testwithfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD2D36C-E3F4-4541-A07D-70EE2A4A2647}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\testwithfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestWithFiles.cs",
+              "DocumentMoniker": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\ConsoleApp1\\TestWithFiles.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TestWithFiles.cs",
+              "ToolTip": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\ConsoleApp1\\TestWithFiles.cs",
+              "RelativeToolTip": "ConsoleApp1\\TestWithFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:20:52.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\RabbitRace_\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitRace_\\Program.cs",
+              "ToolTip": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\RabbitRace_\\Program.cs",
+              "RelativeToolTip": "RabbitRace_\\Program.cs",
+              "ViewState": "AgIAAAAAAABgJ2BK5U4RwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:20:39.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitRace_ProgramTest.cs",
+              "DocumentMoniker": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\ConsoleApp1\\RabbitRace_ProgramTest.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RabbitRace_ProgramTest.cs",
+              "ToolTip": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\ConsoleApp1\\RabbitRace_ProgramTest.cs",
+              "RelativeToolTip": "ConsoleApp1\\RabbitRace_ProgramTest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:03:21.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:01:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitRace.cs",
+              "DocumentMoniker": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\RabbitRace_\\RabbitRace.cs",
+              "RelativeDocumentMoniker": "RabbitRace_\\RabbitRace.cs",
+              "ToolTip": "C:\\Users\\detari.viktoria\\Desktop\\GL DV PZ DZs\\RabbitRace_\\RabbitRace.cs",
+              "RelativeToolTip": "RabbitRace_\\RabbitRace.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:51:50.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

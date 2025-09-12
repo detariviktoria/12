@@ -1,0 +1,26 @@
+
+// Megnézzük történt-e változás
+git status 
+
+// A változtatások elhelyezése a háttérben (színpad/adatbázis)
+git add .
+
+// Véglegesíteni a változtatásokat
+git commit -m "komment szövege"
+
+// Feltöltés
+git push
+
+
+
+echo "# gfysfygf" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/detariviktoria/gfysfygf.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/detariviktoria/gfysfygf.git
+git branch -M main
+git push -u origin main
